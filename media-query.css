@@ -1,0 +1,67 @@
+/*Media Queires..................................................................*/
+
+/* 1 Desktop Preview at 1440 ------------------------------------------------------------------------------*/
+@media(max-width: 1440px){
+	.left_box{
+		width: 610px;
+		height: 750px;
+		left: -160px;
+	}
+
+	.mobile{
+		left: 26.7%;
+		top: 19%;
+	}
+
+	.main_text{
+		right: 16.5%;
+		width: 31%;
+		top: 38.2%;
+	}
+
+	.main_text p{
+		line-height: 25px;
+	}
+
+	.right_box{
+		height: 710px;
+	}
+}
+
+/* 2 Mobile Preview at 375----------------------------------------------------------------------------------*/
+@media(max-width: 375px){
+	.left_box{
+		width: 450px;
+		height: 500px;
+		left: -260px;
+	}
+
+	.mobile{
+		top: 8%;
+		left: 15.5%;
+		z-index: 333;
+	}
+
+	.main_text{
+		width: 95%;
+		top: 650px;
+		left: 1.5%;
+		text-align: center;
+	}
+
+	.main_text p{
+		font-size: 16px;
+		letter-spacing: 1px;
+		line-height: 25px;
+	}
+
+	.right_box{
+		width: 180px;
+		height: 505px;
+		top: 450px;
+		border-radius: 125% 0 0 0/60% 0 0 0;
+	}
+}
+
+
+/*Created By Akash Prajapati, Part of Akrixa Organization*/
