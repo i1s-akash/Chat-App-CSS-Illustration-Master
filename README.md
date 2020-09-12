@@ -3,7 +3,7 @@ Hey Guys, Here i have done a challenge taken by Front-end Mentor where i had to 
 
 Now I am at intermediate levet but still part of Akrixa Organization.
 
-Note: I have uploded a rar file where you get assets with code.
+Note: I have uploded a rar file where you get stuff with code.
 
 
 
